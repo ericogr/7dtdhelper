@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <vipUsers>
-    <slotsAvailable>15</slotsAvailable>
+    <slotsAvailable>0</slotsAvailable>
     <serverFullKickMessage>Server is full. Become a VIP!</serverFullKickMessage>
     <banTimeMinutes>3</banTimeMinutes>
     <users>

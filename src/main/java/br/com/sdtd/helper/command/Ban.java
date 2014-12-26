@@ -26,7 +26,7 @@ public class Ban extends DefaultCommand<Void> {
     @Override
     public boolean processData(String data) {
         setExecuted();
-        return true;
+        return false;
     }
 
     @Override
