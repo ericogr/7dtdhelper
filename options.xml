@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<options>
+    <server>
+        <address>192.168.0.11</address>
+        <port>8081</port>
+        <password>teste</password>
+    </server>
+    
+    <checkInterval>6000</checkInterval> <!-- milliseconds -->
+    <commandTimeout>10000</commandTimeout> <!-- milliseconds -->
+    
+    <executors>
+        <!--<executor>br.com.sdtd.vip.ban.SpawnZombieExecution</executor>-->
+        <executor>br.com.sdtd.vip.ban.VipListExecution</executor>
+        <executor>br.com.sdtd.vip.ban.CursedEarthBannedUsersExecution</executor>
+        <executor>br.com.sdtd.vip.ban.BannedCountryExecution</executor>
+    </executors>
+</options>

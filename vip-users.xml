@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<vipUsers>
+    <slotsAvailable>15</slotsAvailable>
+    <serverFullKickMessage>Server is full. Become a VIP!</serverFullKickMessage>
+    <banTimeMinutes>3</banTimeMinutes>
+    <users>
+        <user>
+            <steamId>00000000000000001</steamId>
+        </user>
+        <user>
+            <steamId>00000000000000002</steamId>
+        </user>
+    </users>
+</vipUsers>

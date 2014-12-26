@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BannedCountries>
+    <kickMessage>You can't connect here!</kickMessage>
+    <countries>
+        <country>
+            <code>CN</code>
+        </country>
+        <country>
+            <code>TW</code>
+        </country>
+    </countries>
+</BannedCountries>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawnZombies>
+    <interval>60000</interval>
+    <quantity>1</quantity>
+    <startDelay>10000</startDelay>
+    <entityIds>zombie04</entityIds>
+</spawnZombies>
