@@ -36,7 +36,7 @@ public class VipListExecution extends GenericExecution {
                 boolean isVipUser = this.playerValidation.isValid(player);
 
                 if (!isVipUser) {
-                    getGameService().kickPlayer(player, this.vipUsersSetup.getServerFullKickMessage());
+                    //getGameService().kickPlayer(player, this.vipUsersSetup.getServerFullKickMessage());
                     getGameService().banPlayer(player, this.vipUsersSetup.getBanTimeMinutes());
                     kicked++;
                 }

@@ -2,7 +2,7 @@
 <vipUsers>
     <slotsAvailable>0</slotsAvailable>
     <serverFullKickMessage>Server is full. Become a VIP!</serverFullKickMessage>
-    <banTimeMinutes>3</banTimeMinutes>
+    <banTimeMinutes>1</banTimeMinutes>
     <users>
         <user>
             <steamId>00000000000000001</steamId>
